@@ -1,0 +1,14 @@
+<div class='quest-question'>
+	<p>{{question}}</p>
+</div>
+<hr />
+<div class='quest-variant'>
+	<table>
+		<tbody>
+			<tr>
+				<td><button class='hand'>True</button></td>
+				<td><button class='hand'>False</button></td>
+			</tr>
+		</tbody>
+	</table>
+</div>

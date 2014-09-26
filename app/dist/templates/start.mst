@@ -1,0 +1,9 @@
+<table>
+	<tbody>
+		<tr>
+			{{ #headers }}
+				<td><h5>{{ name }}</h5></td>
+			{{ /headers }}
+		</tr>
+	</tbody>
+</table>

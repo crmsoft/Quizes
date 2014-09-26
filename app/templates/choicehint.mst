@@ -1,0 +1,20 @@
+<div class='quest-question'>
+	<p>{{question}}</p>
+</div>
+<a href='#' class='show-hint' class='hand'>Show Hint</a>
+<div class='tooltip-hint'>{{hint}}</div>
+<hr />
+<div class='quest-variant'>
+	<table>
+		<tbody>
+			<tr>
+				<td><button class='hand'>{{ch1}}</button></td>
+				<td><button class='hand'>{{ch2}}</button></td>
+			</tr>
+			<tr>
+				<td><button class='hand'>{{ch3}}</button></td>
+				<td><button class='hand'>{{ch4}}</button></td>
+			</tr>
+		</tbody>
+	</table>
+</div>

@@ -1,0 +1,137 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: url(../images/back.png);
+  color: #333;
+  background-repeat: none;
+  background-size: 100%;
+  padding: 0;
+  margin: 0;
+}
+.big{
+  background: rgba(128, 128, 128, 0.23);
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top:0;
+
+}
+.hand{
+  cursor:pointer;
+}
+div.divcenter,div.quest-gen{
+  margin: 0 auto;
+  display: table;
+  margin-top: 25px;
+}
+
+div.divcenter table,div.user-nav{
+-webkit-box-shadow: -1px 20px 5px -13px rgba(64,44,49,1);
+-moz-box-shadow: -1px 20px 5px -13px rgba(64,44,49,1);
+box-shadow: -1px 20px 5px -13px rgba(64,44,49,1);
+
+}
+div.divcenter table td{
+  padding: 80px;
+  background: #1c7ee6;
+  font-size: 28px;
+  color: white;
+  text-align: center;
+  transition: background 0.8s ease,
+              padding 0.8s linear;
+}
+div.divcenter table td:hover{
+  background: green;
+}
+div.user-nav{
+  height: 50px;
+  background: black;
+  width: 100%;
+  top: 0;
+  position: fixed;
+}
+div.user-nav-inner{
+  width: 950px;
+  margin: 0 auto;
+  height: 34px;
+  padding: 8px;
+  color: white;
+}
+span.inner-info{
+  font-size: 26px;
+}
+span.user-right{
+  float: right;
+  padding-top: 11px;
+}
+span.user-right .user-spend-time{
+  font-family: Courier;
+}
+span.back-to-menu{
+  padding-right: 15px;
+}
+div.quest-gen{
+  margin-top: 75px;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  color: white;
+  padding: 15px;
+  background: gray;
+  min-width: 550px;
+  max-width: 750px;
+  min-height: 320px;
+  border-radius: 10px;
+}
+div.quest-question{
+}
+div.quest-question p{
+  text-align: center;
+  font-size: 28px;
+}
+div.quest-variant{
+  padding-top: 60px;
+  display: table;
+  margin: 0 auto;
+}
+div.quest-variant button{
+  padding: 15px 0px 15px 0px;
+  width: 300px;
+  border-radius: 7px;
+  font-size: 20px;
+}
+h5{
+  padding: 15px 0 15px 0;
+  margin: 0;
+}
+.userinput{
+  width: 285px;
+  height: 36px;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.show-hint{
+  font-size: 10px;
+  text-decoration: none;
+}
+.tooltip-hint{
+  display: inline;
+  background: white;
+  padding: 10px;
+  border-radius: 7px;
+  color: #333;
+  font-size: 14px;
+  display: none;
+  text-align: center;
+  margin-top: 5px;
+}
+div.res-banner{
+  text-align: center;
+  color: white;
+}
+div.res-banner h1{
+   font-size: 35px;
+   padding: 0;
+   padding-top: 5px;
+   margin: 0;
+}
