@@ -1,0 +1,12 @@
+{
+  "name": "tr",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "react": "~0.11.2",
+    "jsx-requirejs-plugin": "~0.3.0",
+    "mustache": "~0.8.2",
+    "raphael": "~2.1.2",
+    "jquery-ui": "~1.11.1"
+  }
+}
