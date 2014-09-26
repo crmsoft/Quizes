@@ -1,0 +1,15 @@
+<div class='user-nav'>
+  <div class='user-nav-inner'>
+    <span class='inner-info'>
+      On : <span class='user-current'>{{on}}</span> 
+      Total : <span class='user-total'>{{total}}</span>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Score : <span class='user-guess'>{{ guess }}</span>
+    </span>
+    <span class='user-right'>
+      <span class='back-to-menu'><a href='http://localhost:9000/'>Back To Menu</a></span>
+      <span class='user-spend-time'>{{time}}</span>
+    </span>
+  </div>
+</div>

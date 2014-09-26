@@ -1,0 +1,65 @@
+{
+	"questions" : [
+					{ 
+					  "question"  : "True or false? Electrons are larger than molecules." ,
+					  "choices"   : ["choice1 sf","choice2 sf","choice3 s","choice4 sdf"],
+					  "answer"    : "choice1 sf",
+					  "hint"
+	  : "it can be useable"					},
+					{ 
+					  "question"  : "True or false? The Atlantic Ocean is the biggest ocean on Earth." ,
+					  "choices"   : ["choice1","choice2","choice3","choice4"],
+					  "answer"    : "y a",
+					  "hint" 	  : "it can be useable"
+					},
+					{ 
+					  "question"  : "True or false? The chemical make up food often changes when you cook it." ,
+					  "choices"   : ["choice1","choice2","choice3","choice4"],
+					  "answer"    : "true",
+					  "hint" 	  : "it can be useable"
+					},
+					{ 
+					  "question"  : "True or false? Sharks are mammals." ,
+					  "choices"   : ["choice1","choice2","choice3","choice4"],
+					  "answer"    : "false",
+					  "hint" 	  : "it can be useable"
+					},
+					{ 
+					  "question"  : "True or false? The human body has four lungs." ,
+					  "choices"   : ["choice1","choice2","choice3","choice4"],
+					  "answer"    : "false",
+					  "hint" 	  : "it can be useable"
+					},
+					{ 
+					  "question"  : "True or false? Atoms are most stable when their outer shells are full." ,
+					  "choices"   : ["choice1","choice2","choice3","choice4"],
+					  "answer"    : "true",
+					  "hint" 	  : "it can be useable"
+					},
+					{ 
+					  "question"  : "True or false? Filtration separates mixtures based upon their particle size." ,
+					  "choices"   : ["choice1","choice2","choice3","choice4"],
+					  "answer"    : "true",
+					  "hint" 	  : "it can be useable"
+					},
+					{ 
+					  "question"  : "True or false? Venus is the closest planet to the Sun." ,
+					  "choices"   : ["choice1","choice2","choice3","choice4"],
+					  "answer"    : "false",
+					  "hint" 	  : "it can be useable"
+					},
+					{ 
+					  "question"  : "True or false? Conductors have low resistance." ,
+					  "choices"   : ["choice1","choice2","choice3","choice4"],
+					  "answer"    : "true",
+					  "hint" 	  : "it can be useable"
+					},
+					{ 
+					  "question"  : "True or false? Molecules can have atoms from more than one chemical element." ,
+					  "choices"   : ["choice1","choice2","choice3","choice4"],
+					  "answer"    : "true",
+					  "hint" 	  : "it can be useable"
+					}
+				  ],
+	"canTry" : "2"
+}
